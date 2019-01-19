@@ -50,31 +50,32 @@ The correct answer was " 1. Setup   2. Expression   3. Loop Body  4. Update  5. 
 
 ## Quiz 6
 
-### Question 1
+### Question 2
 
+The correct answers were " Math.random and prompt ". " console.log " does not return a value, it logs data to the console and " alert " displays text in a pop up box.
 
+### Question 6
 
-### Question 2 
-
-
-
-### Question 6 
-
-
+The correct answer was " function divide(a, b) {    return a / b;   } ". This is because when the variables are in the parenthesis of the function, it allows the function to accept the values being divided as parameter.
 
 ### Question 10
 
-
+The answer is " I need to do chores, homework, and undifined... So busy! " because the fuction calls for three varibales, but the second doSomeStuff only has two, leaving c as undefined.
 
 ### Question 11
 
-
+" Global " is the largest scope. " Universal " is not a scope.
 
 ### Question 12
 
-
+The var keyword pushes a variable to the global scope. The let keyword pushes a variable up to the function scope.
 
 ### Question 15
 
+" A ReferenceError will occur on line ten " is the correct answer because y was declared ewith the let keyword. y only exists inside of the if statement and it can not be referenced outside of it.
+
 ## Quiz 7 
 
+### Question 3
+
+The correct answer is " true ". I do not know why. 4444 does not follow the rules.
